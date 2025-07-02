@@ -19,8 +19,17 @@
   <li><b>JavaScript</b> - Interactivity and answer checking</li>
 </ul>
 
+
 <h4>🚀 Getting Started</h4>
 <h3>1. Clone the repository</h3>
 <ul>
   <li>git clone https://github.com/your-username/web-development-mcqs.git</li>
 </ul>
+<h3>2. Open the project</h3>
+<ul>
+  <li>You can open the project directly in your browser by opening the index.html file:</li>
+</ul>
+web-development-mcqs/
+├── index.html
+├── style.css
+└── script.js
