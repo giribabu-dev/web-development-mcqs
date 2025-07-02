@@ -11,3 +11,10 @@
   <li>Responsive design (basic)</li>
   <li>Color feedback for correct and incorrect answers</li>
 </ul>
+
+<h3>🛠️ Technologies Used:</h3>
+<ul>
+  <li><b>HTML5</b> - Structure of the web page</li>
+  <li><b>CSS3</b> - Styling and layout</li>
+  <li><b>JavaScript</b> - Interactivity and answer checking</li>
+</ul>
