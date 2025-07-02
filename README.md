@@ -18,3 +18,9 @@
   <li><b>CSS3</b> - Styling and layout</li>
   <li><b>JavaScript</b> - Interactivity and answer checking</li>
 </ul>
+
+<h4>🚀 Getting Started</h4>
+<h3>1. Clone the repository</h3>
+<ul>
+  <li>git clone https://github.com/your-username/web-development-mcqs.git</li>
+</ul>
