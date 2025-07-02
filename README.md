@@ -29,7 +29,7 @@
 <ul>
   <li>You can open the project directly in your browser by opening the index.html file:</li>
 </ul>
-web-development-mcqs/
-├── index.html
-├── style.css
+web-development-mcqs/ <br />
+├── index.html <br />
+├── style.css <br />
 └── script.js
