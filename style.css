@@ -18,7 +18,9 @@ h1{
     text-align: center;
     color: darkcyan;
 }
-
+input {
+    cursor: pointer;
+}
 label {
     margin-left: 10px;
 }
