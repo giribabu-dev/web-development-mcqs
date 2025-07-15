@@ -27,7 +27,7 @@ web-dev-mcq-quiz/ <br />
 ├── script.js <br />
 └── README.md <br />
 
-- index.html: Main quiz structure and questions
-- style.css: Styling for layout and visuals
-- script.js: JavaScript logic for checking answers
-- README.md: Project description and setup guide
+- **index.html:** Main quiz structure and questions
+- **style.css:** Styling for layout and visuals
+- **script.js:** JavaScript logic for checking answers
+- **README.md:** Project description and setup guide
