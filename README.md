@@ -9,3 +9,10 @@ The app allows users to test their knowledge of web development fundamentals wit
 - Instant feedback (correct/incorrect) when a user selects an answer.
 - Clean, responsive UI with a light gradient background.
 - Easy to extend by adding more questions.
+
+<br />
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
