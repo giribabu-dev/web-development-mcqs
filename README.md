@@ -16,3 +16,18 @@ The app allows users to test their knowledge of web development fundamentals wit
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+
+<br />
+
+## 📁 Folder Structure
+web-dev-mcq-quiz/ <br />
+│ <br />
+├── index.html <br />
+├── style.css <br />
+├── script.js <br />
+└── README.md <br />
+
+- index.html: Main quiz structure and questions
+- style.css: Styling for layout and visuals
+- script.js: JavaScript logic for checking answers
+- README.md: Project description and setup guide
