@@ -47,8 +47,8 @@ web-dev-mcq-quiz/ <br />
     Right click > Open with Live Server
 
 
-📸 Screenshots
+## 📸 Screenshots
 
-📋 Quiz Layout
+## 📋 Quiz Layout
 ✅ Correct Answer Feedback <br />
 ❌ Incorrect Answer Feedback
