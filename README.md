@@ -31,3 +31,24 @@ web-dev-mcq-quiz/ <br />
 - **style.css:** Styling for layout and visuals
 - **script.js:** JavaScript logic for checking answers
 - **README.md:** Project description and setup guide
+
+## 🚀 How to Run
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/giribabu-dev/web-development-mcqs.git
+
+2. Open the project folder:
+    cd web-development-mcqs.git
+
+3. Open index.html in your browser:
+    You can either double-click the file or run a local server (recommended)
+
+    If you have Live Server installed in VS Code
+    Right click > Open with Live Server
+
+
+📸 Screenshots
+
+📋 Quiz Layout
+✅ Correct Answer Feedback <br />
+❌ Incorrect Answer Feedback
