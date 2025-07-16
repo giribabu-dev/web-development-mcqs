@@ -37,13 +37,13 @@ web-dev-mcq-quiz/ <br />
     ```bash
     git clone https://github.com/giribabu-dev/web-development-mcqs.git
 
-2. Open the project folder:
+2. Open the project folder: <br />
     cd web-development-mcqs.git
 
-3. Open index.html in your browser:
+3. Open index.html in your browser: <br />
     You can either double-click the file or run a local server (recommended)
 
-    If you have Live Server installed in VS Code
+    If you have Live Server installed in VS Code <br />
     Right click > Open with Live Server
 
 
